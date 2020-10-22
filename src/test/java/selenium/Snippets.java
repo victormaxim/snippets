@@ -1,3 +1,5 @@
+package selenium;
+
 import com.jcraft.jsch.*;
 import com.jcraft.jsch.*;
 import org.junit.Ignore;

@@ -1,4 +1,4 @@
-# Snippets
+# selenium.Snippets
 
 bits of boiler plate code to get you going
 
