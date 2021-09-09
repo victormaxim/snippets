@@ -1,28 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9855f82e-7c70-40c1-b827-1b26a1addebc" name="Default" comment="catch up updates">
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/insert_into_table10000_int_autoinc_execTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/maps/stateMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/maps/stateMapA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/misc/teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/parents/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/parents/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/parents/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/threads/runOveride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drafts/threads/threadStuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/enums/TrafficSingal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/enums/tEnumB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/enums/testEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/reflectionInvoke/WhenThen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/reflectionInvoke/invokes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/reflectionInvoke/testPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/temp.txt" afterDir="false" />
+    <list default="true" id="9855f82e-7c70-40c1-b827-1b26a1addebc" name="Default" comment="adds various snippets">
+      <change afterPath="$PROJECT_DIR$/resources/regexMatches.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Aleator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Arraylista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/ListaSimpleCuCifre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Liste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/ListeCuCifreCurat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Listecucifre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Stringz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/VariabileClase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Wiley.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/ampli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/DuplicateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/SampleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/StringzB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/brackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/bracketsB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/bracketsC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkrnkString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/repeatedStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/insert_into_table10000_int_autoinc_execTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/multiArfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/runOveride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/stateMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/stateMapA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/tEnumB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/testEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/testPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/threadStuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/variableMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/FileOperations/mane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/FileOperations/propertiesRW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/FileOperations/streamResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/RevString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/RevStringB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/Arra2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/HashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/IteratorA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/patternz/PatternsB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/patternz/Patternz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/patternz/RegexFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/regexMatches.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/temp.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Snippets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Snippets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/drafts/misc/teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/drafts/misc/teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/rwFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rwFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +84,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -66,12 +105,6 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
   <component name="ProjectId" id="1jCdVDLrY3FTUUTFiTSfT5ya2ZH" />
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
@@ -88,7 +121,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568651061090" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../automation/poc-bdd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/snippets/FileOperations" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -98,25 +131,53 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Work\GIT\snippets\resources" />
+      <recent name="E:\Work\GIT\snippets\src\test" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sandbox.drafts" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="snippets.Stringz" />
+      <recent name="snippets.FileOperations" />
+      <recent name="snippets.collections" />
       <recent name="reflectionInvoke" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Work\GIT\snippets\src\main\java\snippets\FileOperations" />
+      <recent name="E:\Work\GIT\snippets" />
+      <recent name="E:\Work\GIT\snippets\src\test\resources" />
       <recent name="E:\Work\GIT\snippets\src\test\java" />
       <recent name="A:\Work\GIT\snippets" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.invokes">
-    <configuration name="Parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drafts.parents.Parent" />
+  <component name="RunManager" selected="Application.repeatedStrings">
+    <configuration name="HashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snippets.collections.HashMaps" />
       <module name="snippets" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="drafts.parents.*" />
+          <option name="PATTERN" value="snippets.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringzB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sandbox.drafts.StringzB" />
+      <module name="snippets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sandbox.drafts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,13 +191,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="invokes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflectionInvoke.invokes" />
+    <configuration name="brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sandbox.drafts.brackets" />
       <module name="snippets" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reflectionInvoke.*" />
+          <option name="PATTERN" value="sandbox.drafts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,24 +205,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Snippets.SSH" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="bracketsC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sandbox.drafts.bracketsC" />
       <module name="snippets" />
-      <option name="PACKAGE_NAME" value="selenium" />
-      <option name="MAIN_CLASS_NAME" value="selenium.Snippets" />
-      <option name="METHOD_NAME" value="SSH" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sandbox.drafts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Snippets.SSH_B" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="repeatedStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sandbox.drafts.repeatedStrings" />
       <module name="snippets" />
-      <option name="PACKAGE_NAME" value="selenium" />
-      <option name="MAIN_CLASS_NAME" value="selenium.Snippets" />
-      <option name="METHOD_NAME" value="SSH_B" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sandbox.drafts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -183,17 +250,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Snippets.SSH" />
-      <item itemvalue="JUnit.Snippets.SSH_B" />
-      <item itemvalue="Application.Parent" />
-      <item itemvalue="Application.invokes" />
+      <item itemvalue="Application.brackets" />
+      <item itemvalue="Application.HashMaps" />
+      <item itemvalue="Application.StringzB" />
+      <item itemvalue="Application.bracketsC" />
+      <item itemvalue="Application.repeatedStrings" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.invokes" />
-        <item itemvalue="Application.Parent" />
-        <item itemvalue="JUnit.Snippets.SSH_B" />
-        <item itemvalue="JUnit.Snippets.SSH" />
+        <item itemvalue="Application.repeatedStrings" />
+        <item itemvalue="Application.bracketsC" />
+        <item itemvalue="Application.StringzB" />
+        <item itemvalue="Application.HashMaps" />
+        <item itemvalue="Application.brackets" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603376142277</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adds various snippets">
+      <created>1603380215708</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603380215708</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -291,53 +367,54 @@
     <MESSAGE value="snippets: ba da boom" />
     <MESSAGE value="update readme file and adds placeholder for TODO snippets" />
     <MESSAGE value="catch up updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="catch up updates" />
+    <MESSAGE value="adds various snippets" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds various snippets" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1603378641252">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1631176900416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603378641252" />
-    <state x="160" y="115" width="1573" height="809" key="CommitChangelistDialog2" timestamp="1603376140585">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1631176900416" />
+    <state x="642" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1631099631420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="160" y="115" width="1573" height="809" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603376140585" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603375935609">
+    <state x="642" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631099631420" />
+    <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1631099616955">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603375935609" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1603377640552">
+    <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1631099616955" />
+    <state x="619" y="115" width="1192" height="809" key="CommitChangelistDialog2" timestamp="1631185152792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603377640552" />
-    <state width="1877" height="206" key="GridCell.Tab.0.bottom" timestamp="1603380111244">
+    <state x="619" y="115" width="1192" height="809" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631185152792" />
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1631184772324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603380111244" />
-    <state width="1877" height="206" key="GridCell.Tab.0.center" timestamp="1603380111244">
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631184772324" />
+    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1631184772324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="206" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603380111244" />
-    <state width="1877" height="206" key="GridCell.Tab.0.left" timestamp="1603380111244">
+    <state width="1877" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631184772324" />
+    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1631184772324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="206" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603380111244" />
-    <state width="1877" height="206" key="GridCell.Tab.0.right" timestamp="1603380111244">
+    <state width="1877" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631184772324" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1631184772324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="206" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603380111244" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1603376115126">
+    <state width="1877" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631184772324" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1631180244127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603376115126" />
-    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603312094192">
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631180244127" />
+    <state x="680" y="312" key="git4idea.merge.GitPullDialog" timestamp="1631098229739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1603312094192" />
-    <state x="680" y="312" key="git4idea.merge.GitPullDialog" timestamp="1603376147744">
+    <state x="680" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631098229739" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1631100705205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="680" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603376147744" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631100705205" />
   </component>
   <component name="masterDetails">
     <states>

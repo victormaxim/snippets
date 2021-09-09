@@ -1,0 +1,20 @@
+Unable to mount disk volume "./db_backup//hatestdb_bk0v000".... No such file or directory
+
+*************************************************************************
+The following database backup volume is needed to continue restoring:
+
+Database Name: CUBRID/databases/hatestdb/hatestdb
+     Volume Name: ./db_backup//hatestdb_bk0v000
+        Unit Num: 0
+    Backup Level: 0 (FULL LEVEL)
+Enter one of the following options:
+Type
+   -  0 to quit.
+   -  1 to continue after the volume is mounted/loaded. (retry)
+   -  2 to continue after changing the volume's directory or device.
+
+*************************************************************************
+Enter new directory or device for backup volume.
+
+CUBRID 10.2 (10.2.0.8750) (64 debug build)
+
