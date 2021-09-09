@@ -1,4 +1,4 @@
-package A;
+package snippets.invoke;
 
 import java.lang.reflect.Method;
 

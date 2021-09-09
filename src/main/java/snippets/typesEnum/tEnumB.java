@@ -1,4 +1,4 @@
-package A;
+package snippets.typesEnum;
 
 public class tEnumB {
 

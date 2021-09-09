@@ -1,6 +1,6 @@
-package A;
+package snippets.math;
 
-public class Aleator {
+public class MathA {
 public static void main(String[] args) {
 	double bla = Math.random()*100;
 	System.out.println(bla+1);

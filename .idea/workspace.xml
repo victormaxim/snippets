@@ -2,65 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9855f82e-7c70-40c1-b827-1b26a1addebc" name="Default" comment="adds various snippets">
-      <change afterPath="$PROJECT_DIR$/resources/regexMatches.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Aleator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Arraylista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/ListaSimpleCuCifre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Liste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/ListeCuCifreCurat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Listecucifre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Stringz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/VariabileClase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/Wiley.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/ampli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/DuplicateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/SampleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/StringzB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/brackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/bracketsB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/bracketsC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkrnkString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/repeatedStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/insert_into_table10000_int_autoinc_execTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/multiArfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/runOveride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/stateMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/stateMapA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/tEnumB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/testEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/testPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/threadStuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/variableMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/FileOperations/mane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/FileOperations/propertiesRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/FileOperations/streamResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/RevString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/RevStringB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/Arra2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/HashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/IteratorA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/patternz/PatternsB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/patternz/Patternz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/patternz/RegexFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/regexMatches.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/lambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/threads/syncThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/threads/threadStuff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/drafts/misc/teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/drafts/misc/teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/rwFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rwFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/Aleator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/math/MathA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/VariabileClase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/statics/VariabileClase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/Wiley.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/scanCharFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/drafts/StringzB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/StringzB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkrnkString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkrnkString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/testPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/threads/testPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/threadStuff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/variableMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/invoke/variableMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +80,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -156,14 +109,14 @@
       <recent name="A:\Work\GIT\snippets" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.repeatedStrings">
-    <configuration name="HashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="snippets.collections.HashMaps" />
+  <component name="RunManager" selected="Application.Aleator">
+    <configuration name="Aleator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A.Aleator" />
       <module name="snippets" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="snippets.collections.*" />
+          <option name="PATTERN" value="snippets.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,20 +140,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sandbox.drafts.brackets" />
-      <module name="snippets" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sandbox.drafts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -233,6 +172,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="threadStuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snippets.threads.threadStuff" />
+      <module name="snippets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snippets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -250,19 +203,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.brackets" />
-      <item itemvalue="Application.HashMaps" />
       <item itemvalue="Application.StringzB" />
       <item itemvalue="Application.bracketsC" />
       <item itemvalue="Application.repeatedStrings" />
+      <item itemvalue="Application.threadStuff" />
+      <item itemvalue="Application.Aleator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aleator" />
+        <item itemvalue="Application.threadStuff" />
+        <item itemvalue="Application.StringzB" />
         <item itemvalue="Application.repeatedStrings" />
         <item itemvalue="Application.bracketsC" />
-        <item itemvalue="Application.StringzB" />
-        <item itemvalue="Application.HashMaps" />
-        <item itemvalue="Application.brackets" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603380215708</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adds various snippets">
+      <created>1631185196514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631185196514</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -383,34 +343,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1631099616955" />
-    <state x="619" y="115" width="1192" height="809" key="CommitChangelistDialog2" timestamp="1631185152792">
+    <state x="326" y="64" width="1485" height="860" key="CommitChangelistDialog2" timestamp="1631185192770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="619" y="115" width="1192" height="809" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631185152792" />
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1631184772324">
+    <state x="326" y="64" width="1485" height="860" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631185192770" />
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1631194995059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631184772324" />
-    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1631184772324">
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631194995059" />
+    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1631194995059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631184772324" />
-    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1631184772324">
+    <state width="1877" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631194995059" />
+    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1631194995059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631184772324" />
-    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1631184772324">
+    <state width="1877" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631194995059" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1631194995059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631184772324" />
-    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1631180244127">
+    <state width="1877" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631194995059" />
+    <state x="922" y="277" key="SettingsEditor" timestamp="1631193072302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631180244127" />
-    <state x="680" y="312" key="git4idea.merge.GitPullDialog" timestamp="1631098229739">
+    <state x="922" y="277" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631193072302" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1631185210879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="680" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631098229739" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631185210879" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1631194907391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631194907391" />
+    <state x="680" y="312" key="git4idea.merge.GitPullDialog" timestamp="1631185200510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631185200510" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1631100705205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

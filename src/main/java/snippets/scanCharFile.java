@@ -1,10 +1,10 @@
-package A;
+package snippets;
 
 import java.io.File;
 import static java.lang.System.out;
 import java.util.Scanner;
 
-class Wiley {
+class scanCharFile {
     public static void main(String args[]) {
         File evidence = new File("cookedBooksX.txt");
         Scanner keyboard = new Scanner(System.in);
