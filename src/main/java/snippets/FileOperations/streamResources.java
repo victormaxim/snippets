@@ -24,6 +24,10 @@ public class streamResources {
     String result = "";
     InputStream inputStream;
 
+    public boolean x (String x){
+        return true;
+    }
+
     public void getVals() throws IOException {
 
         try {

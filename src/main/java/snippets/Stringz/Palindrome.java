@@ -17,6 +17,7 @@ public class Palindrome {
         input = scan.nextLine();
 
         System.out.println(rev(input));
+        System.out.println(input.substring(0,3));
 
     }
 

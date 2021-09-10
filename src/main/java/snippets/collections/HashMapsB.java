@@ -1,9 +1,9 @@
-package A;
+package snippets.collections;
 
 import java.util.HashMap;
 
 
-public class stateMapA {
+public class HashMapsB {
 
     private static Integer x;
 
@@ -37,6 +37,7 @@ public class stateMapA {
             System.out.println(state_map.getOrDefault(i,0));
 
             count = state_map.getOrDefault(i, 0) == 0 ? 1 : state_map.get(i) + 1;
+
             state_map.put(i, count);
         }
 

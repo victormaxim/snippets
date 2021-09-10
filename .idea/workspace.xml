@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9855f82e-7c70-40c1-b827-1b26a1addebc" name="Default" comment="adds various snippets">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/lambdas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/threads/syncThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/threads/threadStuff.java" afterDir="false" />
+    <list default="true" id="9855f82e-7c70-40c1-b827-1b26a1addebc" name="Default" comment="reorganize to sandbox or snippets specific folder">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/arrayToStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/removeDuplicateChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/duplicateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/duplicateWordsB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/specialString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/specialStringAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/inputs/nextInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/snippets/math/MinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/Aleator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/math/MathA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/VariabileClase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/statics/VariabileClase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/Wiley.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/scanCharFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/drafts/StringzB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/StringzB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkrnkString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkrnkString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/testPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/threads/testPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/threadStuff.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/variableMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/invoke/variableMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/ListeCuCifreCurat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/ListeCuCifreCurat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/drafts/DuplicateWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/removeDuplicateChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sandbox/drafts/hkLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sandbox/stateMapA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/collections/HashMapsB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/snippets/FileOperations/streamResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/FileOperations/streamResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/snippets/Stringz/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/Stringz/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/snippets/patternz/Patternz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snippets/patternz/Patternz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,14 +113,28 @@
       <recent name="A:\Work\GIT\snippets" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aleator">
-    <configuration name="Aleator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A.Aleator" />
+  <component name="RunManager" selected="Application.StringzB">
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snippets.Stringz.Palindrome" />
       <module name="snippets" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="snippets.math.*" />
+          <option name="PATTERN" value="snippets.Stringz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Patternz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snippets.patternz.Patternz" />
+      <module name="snippets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snippets.patternz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,13 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bracketsC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sandbox.drafts.bracketsC" />
+    <configuration name="removeDuplicateChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snippets.Stringz.removeDuplicateChars" />
       <module name="snippets" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sandbox.drafts.*" />
+          <option name="PATTERN" value="snippets.Stringz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,27 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repeatedStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sandbox.drafts.repeatedStrings" />
+    <configuration name="specialString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snippets.Stringz.specialString" />
       <module name="snippets" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sandbox.drafts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="threadStuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="snippets.threads.threadStuff" />
-      <module name="snippets" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="snippets.*" />
+          <option name="PATTERN" value="snippets.Stringz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,19 +207,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.removeDuplicateChars" />
+      <item itemvalue="Application.Patternz" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.specialString" />
       <item itemvalue="Application.StringzB" />
-      <item itemvalue="Application.bracketsC" />
-      <item itemvalue="Application.repeatedStrings" />
-      <item itemvalue="Application.threadStuff" />
-      <item itemvalue="Application.Aleator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aleator" />
-        <item itemvalue="Application.threadStuff" />
         <item itemvalue="Application.StringzB" />
-        <item itemvalue="Application.repeatedStrings" />
-        <item itemvalue="Application.bracketsC" />
+        <item itemvalue="Application.specialString" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.removeDuplicateChars" />
+        <item itemvalue="Application.Patternz" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631185196514</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="reorganize to sandbox or snippets specific folder">
+      <created>1631195438211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631195438211</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -328,7 +339,8 @@
     <MESSAGE value="update readme file and adds placeholder for TODO snippets" />
     <MESSAGE value="catch up updates" />
     <MESSAGE value="adds various snippets" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds various snippets" />
+    <MESSAGE value="reorganize to sandbox or snippets specific folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="reorganize to sandbox or snippets specific folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1631176900416">
@@ -343,46 +355,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1631099616955" />
-    <state x="326" y="64" width="1485" height="860" key="CommitChangelistDialog2" timestamp="1631185192770">
+    <state x="326" y="64" width="1485" height="860" key="CommitChangelistDialog2" timestamp="1631195435850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="326" y="64" width="1485" height="860" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631185192770" />
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1631194995059">
+    <state x="326" y="64" width="1485" height="860" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631195435850" />
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1631223572846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631194995059" />
-    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1631194995059">
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631223572846" />
+    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1631223572846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631194995059" />
-    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1631194995059">
+    <state width="1877" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631223572846" />
+    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1631223572846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631194995059" />
-    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1631194995059">
+    <state width="1877" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631223572846" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1631223572846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631194995059" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631223572846" />
     <state x="922" y="277" key="SettingsEditor" timestamp="1631193072302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="277" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631193072302" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1631185210879">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1631195448352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631185210879" />
-    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1631194907391">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631195448352" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1631260537212">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631194907391" />
-    <state x="680" y="312" key="git4idea.merge.GitPullDialog" timestamp="1631185200510">
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631260537212" />
+    <state x="680" y="312" key="git4idea.merge.GitPullDialog" timestamp="1631195444057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="680" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631185200510" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1631100705205">
+    <state x="680" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631195444057" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1631223257202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631100705205" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631223257202" />
   </component>
   <component name="masterDetails">
     <states>

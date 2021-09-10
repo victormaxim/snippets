@@ -1,14 +1,15 @@
-package sandbox.drafts;
+package snippets.Stringz;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class DuplicateWords {
+public class removeDuplicateChars {
 
     public static void main(String[] args) {
 
-        String regex = "\\b(\\w+)(?:\\W+\\1\\b)+";
+//        String regex = "([a]+)";
+        String regex = "([a,b]{3,})";
 //        String regex = "\\b([a-z]|[A-Z]+)(\\s+\\1\\b)+";
         Pattern p = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
 
@@ -22,8 +23,8 @@ public class DuplicateWords {
 
             // Check for subsequences of input that match the compiled pattern
             while (m.find()) {
-                input = input.replaceAll(m.group(), m.group(1));
-
+//                input = input.replaceAll(m.group(), m.group(1));
+                System.out.println(m.group(1));
             }
 
             // Prints the modified sentence.

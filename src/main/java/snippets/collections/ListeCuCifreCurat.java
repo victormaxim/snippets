@@ -1,4 +1,4 @@
-package A;
+package snippets.collections;
 
 import java.util.Collections;
 import java.util.LinkedList;
@@ -60,6 +60,7 @@ public class ListeCuCifreCurat {
 				keyboard = new Scanner(System.in);
 								
 				myint = keyboard.nextInt();
+
 				if(myint > 0){adauga(myint);}
 				else if(myint <0){sterge(0-myint);}
 				

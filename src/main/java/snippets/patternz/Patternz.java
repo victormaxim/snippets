@@ -16,22 +16,23 @@ public class Patternz {
     static String line;
 
     public static void main(String[] args) {
-
-       line = "1 fish 2 fish red fish blue fish";
-
-        regex = "(\\d+) fish (\\d+) fish (\\w+) fish (\\w+) fish";
-
-        try (Stream<String> stream = Files.lines(Paths.get(System.getProperty("user.dir") + "\\..\\" + "snippets\\src\\test\\resources\\" + "regexMatches.txt"))) {
-            stream.forEach(linez -> {
-                    matchMatcher(linez);
-            });
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        line = "1 fish 2 fish red fish blue fish";
-        regex = "(\\\\d+) fish (\\\\d+) fish (\\\\w+) fish (\\\\w+) fish\"";
-        matchMatcherB(line, regex);
+            Patternz p = new Patternz();
+            p.groupRepeat();
+//       line = "1 fish 2 fish red fish blue fish";
+//
+//        regex = "(\\d+) fish (\\d+) fish (\\w+) fish (\\w+) fish";
+//
+//        try (Stream<String> stream = Files.lines(Paths.get(System.getProperty("user.dir") + "\\..\\" + "snippets\\src\\test\\resources\\" + "regexMatches.txt"))) {
+//            stream.forEach(linez -> {
+//                    matchMatcher(linez);
+//            });
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//
+//        line = "1 fish 2 fish red fish blue fish";
+//        regex = "(\\\\d+) fish (\\\\d+) fish (\\\\w+) fish (\\\\w+) fish\"";
+//        matchMatcherB(line, regex);
     }
 
     public void groupRepeat(){
