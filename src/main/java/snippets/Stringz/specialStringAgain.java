@@ -34,6 +34,7 @@ public class specialStringAgain {
                     ch = s.charAt(i);
                 }
             }
+
             count = 0;
             if(l.size() >= 3) {
                 Iterator<Point> itr = l.iterator();
@@ -79,4 +80,4 @@ public class specialStringAgain {
         }
     }
 
-}
+

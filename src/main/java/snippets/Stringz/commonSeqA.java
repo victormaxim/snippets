@@ -1,11 +1,9 @@
 package snippets.Stringz;
-
-public class commonSeqA {
-    package com.javaaid.hackerrank.solutions.algorithms.strings;
-
 import java.util.Scanner;
 
-    public class CommonChild {
+public class commonSeqA {
+
+
 
         static int commonChild(String s1, String s2) {
             return LCSM4(s1.toCharArray(), s2.toCharArray(), s1.length(), s2.length());
@@ -41,4 +39,4 @@ import java.util.Scanner;
         }
 
     }
-}
+

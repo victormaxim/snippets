@@ -8,7 +8,7 @@ public class PatternsB {
 
         Pattern EMAIL_ADDRESS_PATTERN =
                 Pattern.compile("(grup)");
-
+//        (a.a) wildcard
         String OVERLAPPING_EMAIL_ADDRESSES = "grupgrupgrup";
 //        String OVERLAPPING_EMAIL_ADDRESSES = "Try to grup us grup at team@baeldung.comeditor@baeldung.com, support@baeldung.com.";
 

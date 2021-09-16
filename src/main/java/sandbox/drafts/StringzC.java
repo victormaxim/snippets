@@ -2,11 +2,11 @@ package sandbox.drafts;
 
 import org.apache.commons.lang.StringUtils;
 
-public class StringzB {
+public class StringzC {
     public static void main(String[] args) {
-        String s = "{{}){}(a()((}({{{}((abaacd";
-        String[] counts = s.split("\\{");
-        System.out.println(counts.length - 1);
+//        String s = "{{}){}(a()((}({{{}((abaacd";
+//        String[] counts = s.split("\\{");
+//        System.out.println(counts.length - 1);
 
 //        String st = "abcabcabc";
 //        String[] countz = st.split("abc");
@@ -22,6 +22,8 @@ public class StringzB {
         System.out.println("->" + str.replaceAll(str, ""));
 
         String strip = str.replaceAll(findStr, "");
+
+        
 
         System.out.println(strip);
         System.out.println(strip.indexOf(findStr));
